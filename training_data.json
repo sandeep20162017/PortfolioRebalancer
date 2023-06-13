@@ -1,0 +1,76 @@
+{
+    "assets": [
+        {
+            "name": "Infra",
+            "weight": 0.2,
+            "returns": 0.044
+        },
+        {
+            "name": "Home Loans",
+            "weight": 0.1,
+            "returns": 0.05
+        },
+        {
+            "name": "Public Equity",
+            "weight": 0.3,
+            "returns": 0.08
+        },
+        {
+            "name": "Private Equity",
+            "weight": 0.05,
+            "returns": 0.07
+        },
+        {
+            "name": "Commodity",
+            "weight": 0.15,
+            "returns": 0.04
+        },
+        {
+            "name": "Liquid Cash",
+            "weight": 0.2,
+            "returns": 0.0
+        }
+    ],
+    "returns": [
+        {
+            "Infra": 0.08912608175840506,
+            "Home Loans": 0.0930203908369631,
+            "Public Equity": 0.07356970487259432,
+            "Private Equity": 0.11235698026341728,
+            "Commodity": 0.01407091792055911,
+            "Liquid Cash": -0.024022661585607154
+        },
+        {
+            "Infra": 0.06095958471535293,
+            "Home Loans": 0.06512766873684069,
+            "Public Equity": 0.10784021615720772,
+            "Private Equity": 0.02742902611434301,
+            "Commodity": 0.05994654125361446,
+            "Liquid Cash": -0.01876374955356568
+        },
+        {
+            "Infra": 0.018342097027961635,
+            "Home Loans": 0.09479172619246977,
+            "Public Equity": 0.12163149519259443,
+            "Private Equity": 0.11453763075478916,
+            "Commodity": 0.05428414238816786,
+            "Liquid Cash": 0.01989856256754366
+        },
+        {
+            "Infra": 0.05707746478825114,
+            "Home Loans": 0.046143904695308206,
+            "Public Equity": 0.04239633294397281,
+            "Private Equity": 0.0648677212692488,
+            "Commodity": 0.05416305973396788,
+            "Liquid Cash": -0.04884661249022165
+        },
+        {
+            "Infra": 0.049624491406853,
+            "Home Loans": 0.092137214155739,
+            "Public Equity": 0.04435915075603291,
+            "Private Equity": 0.04627948827676866,
+            "Commodity": 0.06582293732840391,
+            "Liquid Cash": 0.02966554627388386
+        }
+    ]
+}
